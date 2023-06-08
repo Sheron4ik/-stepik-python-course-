@@ -87,7 +87,7 @@ def who_win():
                 print("Руслан")
 
 
-def who_win_2():
+def _who_win_2():
     timur = input()
     ruslan = input()
     if timur == ruslan:
@@ -133,7 +133,7 @@ def orel_i_reshka():
     print(max(max_reshek, cur_reshek))
 
 
-def _silicon_valley():
+def __silicon_valley():
     n = int(input())
     hacking = ['a', 'n', 't', 'o', 'n']
     for id in range(n):
@@ -148,7 +148,7 @@ def _silicon_valley():
             print(id + 1, end=' ')
 
 
-def _ban_a():
+def __ban_a():
     data = input() + " запретил букву"
     letters = sorted(set(data))[1:]
     data = list(data)
@@ -158,4 +158,4 @@ def _ban_a():
 
 
 if __name__ == '__main__':
-    _ban_a()
+    __ban_a()

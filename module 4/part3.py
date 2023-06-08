@@ -12,7 +12,7 @@ def list_2():
         print(li)
 
 
-def pascal_1():
+def _pascal_1():
     def pascal(i):
         if i == 0 or i == 1:
             return [1] * (i + 1)
@@ -44,7 +44,7 @@ def pascal_2():
     pascal(n - 1)
 
 
-def packing_duplicates():
+def _packing_duplicates():
     inp = input().split()
     res = []
     for char in inp:
@@ -55,7 +55,7 @@ def packing_duplicates():
     print(res)
 
 
-def chunking():
+def _chunking():
     def chunked(char_list, n):
         res = []
         for i in range(0, len(char_list), n):
@@ -65,7 +65,7 @@ def chunking():
     print(chunked(input().split(), int(input())))
 
 
-def sublists_list():
+def __sublists_list():
     inp = input().split()
     res = [[]]
     for length in range(1, len(inp) + 1):
@@ -75,4 +75,4 @@ def sublists_list():
 
 
 if __name__ == '__main__':
-    sublists_list()
+    __sublists_list()

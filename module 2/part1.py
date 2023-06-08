@@ -52,7 +52,7 @@ def SAC():
     print(sac[::-1])
 
 
-def _task_of_Josephus():
+def __task_of_Josephus():
     n = int(input())
     k = int(input())
     people = [1] * n
@@ -71,4 +71,4 @@ def _task_of_Josephus():
 
 
 if __name__ == '__main__':
-    _task_of_Josephus()
+    __task_of_Josephus()
