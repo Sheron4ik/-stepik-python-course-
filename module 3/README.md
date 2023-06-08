@@ -17,4 +17,11 @@
 
 ### 3.2
 
-
+![img_12.png](src/img_12.png)
+![img_13.png](src/img_13.png)
+![img_14.png](src/img_14.png)
+![img_15.png](src/img_15.png)
+![img_16.png](src/img_16.png)
+![img_17.png](src/img_17.png)
+![img_18.png](src/img_18.png)
+![img_19.png](src/img_19.png)
