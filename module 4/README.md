@@ -48,3 +48,13 @@
 ![img_34.png](src/img_34.png)
 ![img_35.png](src/img_35.png)
 ![img_36.png](src/img_36.png)
+
+### 4.7
+
+![img_37.png](src/img_37.png)
+![img_38.png](src/img_38.png)
+![img_39.png](src/img_39.png)
+![img_40.png](src/img_40.png)
+![img_41.png](src/img_41.png)
+![img_42.png](src/img_42.png)
+![img_43.png](src/img_43.png)
