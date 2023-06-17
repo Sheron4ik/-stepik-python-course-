@@ -19,6 +19,18 @@
 
 ### 8.2
 
+![img_14.png](src/img_14.png)
+![img_15.png](src/img_15.png)
+![img_16.png](src/img_16.png)
+![img_17.png](src/img_17.png)
+![img_18.png](src/img_18.png)
+![img_19.png](src/img_19.png)
+![img_20.png](src/img_20.png)
+![img_21.png](src/img_21.png)
+![img_22.png](src/img_22.png)
+![img_23.png](src/img_23.png)
+![img_24.png](src/img_24.png)
+
 ### 8.3
 
 ### 8.4
